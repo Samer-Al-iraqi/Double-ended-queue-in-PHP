@@ -5,7 +5,7 @@ The test code is below the class code.
 
 Output from test code:
 
-Queue is Empty 
+Queue is Empty
 Adding to left 3 values: 5,3,7 
 Queue: <5,3,7>
 Adding to LEFT 10 
