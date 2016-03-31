@@ -1,9 +1,9 @@
 # Double-ended-queue-in-PHP
-an assignment in Data structure class - tested
+##an assignment in Data structure class - tested
 
 The test code is below the class code.
 
-Output from test code:
+### Output from test code:
 
 Queue is Empty
 
